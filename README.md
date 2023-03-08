@@ -1,3 +1,24 @@
+About the Project🤔
+--------------------
+
+📌This is a Unit Calculator
+
+📌Every unit you encounter in life is a collection of manual methods of conversionA complication to your busy lifestyle.
+
+📌To solve this problem,The system to convert the following units
+
+📌A java application to convert such measurement units
+
+Programming Language used⁉️
+--------------------
+📌This is learning Made Java Loops
+
+
+
+The application will look like below in CLI when running.🤓
+------------------------------------------------------------
+
+
 ***************
 UNIT CALCULATOR				
 ***************
